@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework1">
-      <change afterPath="$PROJECT_DIR$/src/homework2/homework2task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/homework2task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/homework2task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/homework2task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +36,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.homework2task1.executor": "Run",
-    "Application.homework2task2.executor": "Run",
-    "Application.hw1task2.executor": "Run",
-    "Application.lesson3homework2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework1",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.homework2task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homework2task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hw1task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lesson3homework2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.homework2task2">
     <configuration name="homework2task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.homework2task1" />
