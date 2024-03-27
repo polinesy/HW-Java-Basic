@@ -17,9 +17,9 @@ public class homework2task1 {
         String string3 = string2.replace("want", "don't want").concat(" it is perfect");
 
 
-        System.out.println(string1 + " \n--> Довжина цього рядка: "+string1.length());
-        System.out.println(string2 + " \n--> Довжина цього рядка: "+string2.length());
-        System.out.println(string3 + " \n--> Довжина цього рядка: "+string3.length());
+        System.out.println(string1 + " \n--> Довжина цього рядка: "+string1.length()+" символів");
+        System.out.println(string2 + " \n--> Довжина цього рядка: "+string2.length()+" символів");
+        System.out.println(string3 + " \n--> Довжина цього рядка: "+string3.length()+" символів");
 
 
     }

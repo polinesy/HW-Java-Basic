@@ -14,7 +14,7 @@ public class homework2task2 {
 
         String[] words = text.split("\\s+");
 
-        //int lengthWords = words.length; - определение количества слов в предложении для дальнейшего сравнения.
+        //int lengthWords = words.length;
 
         System.out.println("The first word is \"" + words[0].replace(",", "")
                 + "\" and it has " + words[0].length() + " symbols");

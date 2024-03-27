@@ -16,6 +16,16 @@ int size = arrayOfString.length;
 
 Решить данную задачу с учетов верхнего и нижнего регистра символа 'a'.*/
 
+        String text = "Completely random text in English. In it, we just need to determine how many times the character 'a' occurs there. " +
+                "And we can use the split method and the length method.";
+        String textInLowerCase = text.toLowerCase();
+
+        String[] arrayOfString = text.split("a");
+
+        int countA = arrayOfString.length - 1;
+
+        System.out.println("Количество вхождений символа \"a\" в строке: " + countA);
+
 
 
 
