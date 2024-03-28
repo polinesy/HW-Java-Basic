@@ -20,15 +20,20 @@ public class homework2task2 {
                 + "\" and it has " + words[0].length() + " symbols");
         System.out.println("The second word is \"" + words[1]
                 + "\" and it has " + words[1].length() + " symbols");
-        System.out.println();
+        System.out.println("The third word is \"" + words[2]
+                + "\" and it has " + words[2].length() + " symbols");
+        System.out.println("The fouth word is \"" + words[3]
+                + "\" and it has " + words[3].length() + " symbols");
+        System.out.println("The fifth word is \"" + words[4]
+                + "\" and it has " + words[4].length() + " symbols");
 
         int w1 = words[0].length(), w2 = words[1].length(),
                 w3 = words[2].length(), w4 = words[3].length(), w5 = words[4].length();
 
         if (w1 > w2 && w1 > w3 && w1 > w4 && w1 > w5)
-        {System.out.println("The first word is longet than other and it is \nTRUE");
+        {System.out.println("The first word is longet than other and it is TRUE");
         } else {
-            System.out.println("Saying the first word is longer than others is \nFALSE");
+            System.out.println("Saying the first word is longer than others is FALSE");
 
 
         }
