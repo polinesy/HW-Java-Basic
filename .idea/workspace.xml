@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework3" />
+    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework3">
+      <change afterPath="$PROJECT_DIR$/src/homework4/hw4task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4/hw4task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/hw4task1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +67,7 @@
     "Application.hw3task4.executor": "Run",
     "Application.hw3task5.executor": "Run",
     "Application.hw3task6.executor": "Run",
+    "Application.hw4task3.executor": "Run",
     "Application.lesson3homework2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +75,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hw3task1">
+  <component name="RunManager" selected="Application.hw4task3">
     <configuration name="hw3task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework3.hw3task1" />
       <module name="HW-Java-Basic" />
@@ -123,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw3task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.hw3task6" />
+    <configuration name="hw4task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.hw4task3" />
       <module name="HW-Java-Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw4task3" />
         <item itemvalue="Application.hw3task1" />
         <item itemvalue="Application.hw3task5" />
         <item itemvalue="Application.hw3task4" />
         <item itemvalue="Application.hw3task3" />
-        <item itemvalue="Application.hw3task6" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712074461899</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework3">
+      <option name="closed" value="true" />
+      <created>1712239744406</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712239744406</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
