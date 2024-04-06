@@ -11,8 +11,22 @@ public class hw4task1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        StringBuilder sentence = new StringBuilder();
 
-        String[] fromConsole = new String[0];
+        System.out.println("Введите слова для предложения. Введите STOP, чтобы закончить.");
+
+        while (true) {
+            String word = scanner.next();
+
+            if (word.equalsIgnoreCase("STOP")) {
+                break;
+            }
+
+            sentence.append(word).append(" ");
+        }
+
+        System.out.println("Предложение: " + sentence.toString().trim());
+        scanner.close();
 
 
 
