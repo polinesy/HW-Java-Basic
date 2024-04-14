@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework4">
-      <change afterPath="$PROJECT_DIR$/src/homework5/hw5task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/hw6task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework6/hw6task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW1/hw1task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/hw1task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
     "Application.hw4task5.executor": "Run",
     "Application.hw4task6.executor": "Run",
     "Application.hw5task1.executor": "Run",
+    "Application.hw6task1.executor": "Run",
     "Application.lesson3homework2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +82,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.hw5task1">
+  <component name="RunManager" selected="Application.hw6task1">
     <configuration name="hw4task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework4.hw4task3" />
       <module name="HW-Java-Basic" />
@@ -121,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw4task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.hw4task6" />
-      <module name="HW-Java-Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="hw5task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework5.hw5task1" />
       <module name="HW-Java-Basic" />
@@ -147,13 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw6task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.hw6task1" />
+      <module name="HW-Java-Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw6task1" />
         <item itemvalue="Application.hw5task1" />
         <item itemvalue="Application.hw4task5" />
         <item itemvalue="Application.hw4task4" />
         <item itemvalue="Application.hw4task3" />
-        <item itemvalue="Application.hw4task6" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712409869780</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework4">
+      <option name="closed" value="true" />
+      <created>1712742714167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712742714167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
