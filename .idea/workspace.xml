@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework6">
-      <change afterPath="$PROJECT_DIR$/src/homework7/Hw7task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7/hw7task1.java" afterDir="false" />
+    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework7">
+      <change afterPath="$PROJECT_DIR$/src/homework7/Hw7task3_Conspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hw7task2">
+  <component name="RunManager" selected="Application.Hw7task3_Conspect">
     <configuration name="Hw7task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework7.Hw7task2" />
       <module name="HW-Java-Basic" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw5task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework5.hw5task1" />
+    <configuration name="Hw7task3_Conspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework7.Hw7task3_Conspect" />
       <module name="HW-Java-Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework5.*" />
+          <option name="PATTERN" value="homework7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hw7task3_Conspect" />
         <item itemvalue="Application.Hw7task2" />
         <item itemvalue="Application.hw7task1" />
         <item itemvalue="Application.hw6task2" />
         <item itemvalue="Application.hw6task1" />
-        <item itemvalue="Application.hw5task1" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713159924367</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homework7">
+      <option name="closed" value="true" />
+      <created>1713266800377</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713266800377</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -300,6 +307,7 @@
     <MESSAGE value="Homework3" />
     <MESSAGE value="Homework4" />
     <MESSAGE value="Homework6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework6" />
+    <MESSAGE value="Homework7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework7" />
   </component>
 </project>
