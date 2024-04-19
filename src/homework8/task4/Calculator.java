@@ -40,7 +40,7 @@ division.
             double result = num1 / num2;
             System.out.println("Результат: " + result);
         } else {
-            System.out.println("Деление на ноль невозможно.");
+            System.out.println("Ділення на нуль неможливо.");
         }
     }
 
@@ -57,14 +57,14 @@ division.
         Scanner scanner = new Scanner(System.in);
         String input;
 
-        System.out.println("Калькулятор запущен.");
-        System.out.println("Введите действие в формате \"число оператор число\", например: 2 + 4 ");
+        System.out.println("Калькулятор запущено.");
+        System.out.println("Введіть дію у форматі \"число оператор число\", наприклад: 2 + 4 ");
 
         while (true) {
             input = scanner.nextLine();
 
             if (input.equalsIgnoreCase("stop")) {
-                System.out.println("Калькулятор закрыт.");
+                System.out.println("Калькулятор закрито.");
                 break;
             }
 
@@ -88,11 +88,11 @@ division.
                         division(num1, num2);
                         break;
                     default:
-                        System.out.println("Введите корректное действие.");
+                        System.out.println("Введіть коректну дію.");
                         continue;
                 }
             } else {
-                System.out.println("Введите корректное действие.");
+                System.out.println("Введіть коректну дію.");
 
             }
         }
