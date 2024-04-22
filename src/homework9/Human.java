@@ -1,5 +1,7 @@
 package homework9;
 
+import java.util.Objects;
+
 public class Human {
 
     private String name;
@@ -34,6 +36,8 @@ public class Human {
         this.mother = mother;
         this.father = father;
     }
+
+    public Human (){};
 
 
     public String getName() {
@@ -97,27 +101,31 @@ public class Human {
 
     public void describePet() {
         String trickLevelDescription = (pet.getTrickLevel() > 50) ? "дуже хитрий" : "майже не хитрий";
-        System.out.println("У мене є " + pet.getSpecies() + ", їй " +
+        System.out.println("У мене є " + pet.getSpecies() + ", йому " +
                 pet.getAge() + " років, він " + trickLevelDescription + ".");
     }
-
     public void feedPet() {
         System.out.println("Годую тварину.");
     }
 
 
+
     @Override
     public String toString() {
-        return "Human{" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", year=" + year +
-                ", iq=" + iq +
-                ", mother=" + mother.getName() + " " + mother.getSurname() +
-                ", father=" + father.getName() + " " + father.getSurname() +
-                ", pet=" + pet +
-                '}';
+        return "Human{name='" + name + "', surname='" + surname + "', year=" + year + ", iq=" + iq + "}";
     }
-    
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Human human = (Human) o;
+        return year == human.year && Objects.equals(name, human.name) && Objects.equals(surname, human.surname);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, surname, year);
+    }
 }
 
