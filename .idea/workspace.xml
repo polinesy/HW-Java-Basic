@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework77">
-      <change afterPath="$PROJECT_DIR$/src/homework8/task3/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8/task4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework8/task4/Calculator_Main.java" afterDir="false" />
+    <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework88">
+      <change afterPath="$PROJECT_DIR$/src/homework9/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework9/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +46,11 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/homework3/hw3Task1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/homework3/hw3task1.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
@@ -65,6 +68,7 @@
     "Application.Computer_main.executor": "Run",
     "Application.HW7task1.executor": "Run",
     "Application.Hw7task2.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Tree_main.executor": "Run",
     "Application.homework2task1.executor": "Run",
     "Application.homework2task2.executor": "Run",
@@ -95,7 +99,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator_Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework8.task4.Calculator" />
       <module name="HW-Java-Basic" />
@@ -135,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw7task3_Conspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework7.Hw7task3_Conspect" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework9.Main" />
       <module name="HW-Java-Basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework7.*" />
+          <option name="PATTERN" value="homework9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calculator_Main" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Tree_main" />
         <item itemvalue="Application.Computer_main" />
-        <item itemvalue="Application.Hw7task3_Conspect" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +320,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713370315836</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Homework8">
+      <option name="closed" value="true" />
+      <created>1713499209432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713499209432</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Homework88">
+      <option name="closed" value="true" />
+      <created>1713499376782</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713499376782</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +346,23 @@
     <MESSAGE value="Homework6" />
     <MESSAGE value="Homework7" />
     <MESSAGE value="Homework77" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework77" />
+    <MESSAGE value="Homework8" />
+    <MESSAGE value="Homework88" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework88" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework9/Main.java</url>
+          <line>8</line>
+          <properties class="homework9.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
