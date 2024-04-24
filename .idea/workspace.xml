@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework9">
+      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework9/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework9/Family.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework9/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework9/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework9/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework9/Pet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "Application.Hw7task2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Tree_main.executor": "Run",
+    "Application.homework10.task1.Main.executor": "Run",
     "Application.homework2task1.executor": "Run",
     "Application.homework2task2.executor": "Run",
     "Application.homework2task3.executor": "Run",
@@ -101,7 +101,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.homework10.task1.Main">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework8.task4.Calculator" />
       <module name="HW-Java-Basic" />
@@ -121,19 +121,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework8.task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Computer_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework8.task1.Computer_main" />
-      <module name="HW-Java-Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework8.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +154,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework10.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework10.task1.Main" />
+      <module name="HW-Java-Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework10.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework10.task1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calculator_Main" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Tree_main" />
-        <item itemvalue="Application.Computer_main" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713793084107</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Homework9">
+      <option name="closed" value="true" />
+      <created>1713815976003</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713815976003</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
