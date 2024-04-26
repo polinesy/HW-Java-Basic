@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307af851-6639-46ff-a260-1026cd980519" name="Changes" comment="Homework9">
-      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework10/task1/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7/hw7task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7/hw7task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homework10.task1.Main">
+  <component name="RunManager" selected="Application.hw7task1">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework8.task4.Calculator" />
       <module name="HW-Java-Basic" />
@@ -141,19 +138,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework8.task2.Tree_main" />
-      <module name="HW-Java-Basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework8.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="homework10.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework10.task1.Main" />
       <module name="HW-Java-Basic" />
@@ -167,13 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw7task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework7.hw7task1" />
+      <module name="HW-Java-Basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw7task1" />
         <item itemvalue="Application.homework10.task1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calculator_Main" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Tree_main" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713815976003</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Homework9">
+      <option name="closed" value="true" />
+      <created>1713966892797</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713966892797</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

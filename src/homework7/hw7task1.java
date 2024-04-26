@@ -4,31 +4,30 @@ public class hw7task1 {
     /*1) Написати метод, який приймає як параметр масив цілих чисел.
     І виводить на екран усі парні числа списком, а також непарні числа списком.*/
 
-    public int printNumbers (int [] arr){
+    public void printNumbers (int [] arr){
 
         System.out.println("Парні: ");
 
         for (int num : arr) {
             if (num % 2 == 0){
-                System.out.println(num + " ");
+                System.out.print(num + " ");
             }
         }
+        System.out.println();
 
-        System.out.println("Непарні: ");
+        System.out.print("Непарні: ");
 
         for (int num : arr) {
             if (num % 2 != 0){
-                System.out.println(num + " ");
+                System.out.print(num + " ");
             }
         }
-
-
-        return 0;
+        System.out.println();
     }
 
     public void main(String[] args) {
         int[] arr = {7, 10, 18, 3, 66, 90};
-        System.out.println(printNumbers(arr));
+        printNumbers(arr);
     }
     }
 
